@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/keerthanas2004/achievements?format=svg&limit=3" width="350" />
 </p>
 <!--
 **keerthanas2004/keerthanas2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
